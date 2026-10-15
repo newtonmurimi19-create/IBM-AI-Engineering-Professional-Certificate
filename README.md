@@ -542,3 +542,5 @@ IBM AI Engineering Professional Certificate
 This repository contains educational and portfolio work completed as part of the IBM AI Engineering Professional Certificate learning pathway.
 
 The repository is intended to document learning progress, technical skills, experimentation, and hands-on implementation.
+https://www.credly.com/users/newton-murimi
+https://www.linkedin.com/in/newton-irungu-720211421/
